@@ -1,6 +1,7 @@
 name := "fileclerk"
 version := "0.0.1-SNAPSHOT"
 organization := "dev.mzarnowski.sbt"
+organizationHomepage := Some(url("https://github.com/mzarnowski"))
 
 scalaVersion := "2.12.12"
 
